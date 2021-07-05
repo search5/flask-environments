@@ -3,6 +3,9 @@ Flask-Environments
 
 Environment tools and configuration for Flask applications
 
+Required
+- Python 3.5+
+
 
 Resources
 ---------

@@ -18,7 +18,7 @@ from setuptools import setup
 
 setup(
     name='Flask-Environments',
-    version='0.1',
+    version='0.2',
     url='http://packages.python.org/flask-environments/',
     license='MIT',
     author='Matthew Wright',
